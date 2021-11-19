@@ -1,3 +1,6 @@
+# Description (start on 11/21)
+This project is fun rolodex monster to learn react basic 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
